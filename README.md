@@ -1,3 +1,5 @@
+# [DISCONTINUED] - WILL NEVER RECIEVE ANY UPDATE
+
 # About
 
 Mikicrep kernel free to use thing that allows you to create your os without you having to create your functions...
@@ -17,7 +19,7 @@ You got 2 ways to setup this project:
 
 1. Ask me to do it for you (contact me at https://discord.gg/52DNUEyeD7)
 
-2. Check my tutorial: VERY SOON, CHECK THIS SOMETIMES
+2. Check my tutorial: https://youtu.be/9_s9KcPxP-E?si=auKlwrKVP5urYZXq
 
 # Other info
 
